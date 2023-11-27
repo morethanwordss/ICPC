@@ -18,11 +18,11 @@ y_{2\ right} &\text = k_2 \cdot x_{right} &\+ b_2 \\
 
 If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
 
-$$\text If y_{1\ left} < y_{2\ left}, \text then y_{1\ right} > y_{2\ right} &\text and,$$
+$$\text If y_{1\ left} < y_{2\ left}, \text then y_{1\ right} > y_{2\ right} \text and,$$
 
 $$\text If y_{1\ left} > y_{2\ left}, \text then y_{1\ right} < y_{2\ right}$$
 
-Now, we pair all ${y_{i1}, y_{i2}}$ and sort them according to $y_{i1}$. Therefore, all $y_{i2}$ will occur in sorted order. If all $y_{22}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
+Now, we pair all ${y_{i\ left}, y_{i\ right}}$ and sort them according to $y_{i\ left}$. Therefore, all $y_{i\ right}$ will occur in sorted order. If all $y_{2\ right}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
 
 ## Solution
 $$ Author : morethanwords $$
