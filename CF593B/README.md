@@ -1,6 +1,6 @@
 # CF593B (Anton and Lines)
 ## Theory
-If two lines $y = k_1 * x + b_1$ and $y = k_2 * x + b_2$ intersects inside a strip $[x_left, x_right]$, 
+If two lines $y = k_1 \dot x + b_1$ and $y = k_2 * x + b_2$ intersects inside a strip $[x_left, x_right]$, 
 
 $$ y_{1_left} = k_1 * x_left + b_1 = y1 point on x_left$$
 $$ y_{1_right} = k_1 * x_right + b_1 = y1 point on x_right$$
