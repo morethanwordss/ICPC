@@ -7,13 +7,13 @@ $$y = k_2 \cdot x + b_2\  .....(ii)$$
 Suppose line $(i)$ and $(ii)$ have an intersection point inside a strip $[x_{left}, x_{right}]$.
 
 $$ equation \ (i) \begin{cases}
-y_{1\ left} &\text = k_1 \cdot x_{left} &\+ b_1 \\ 
-y_{1\ right} &\text = k_1 \cdot x_{right} &\+ b_1 \\
+y_{1\ left} &\text = \ k_1 \cdot x_{left} + b_1 \\ 
+y_{1\ right} &\text = \ k_1 \cdot x_{right} + b_1 \\
 \end{cases}$$ 
 
 $$ equation \ (ii) \begin{cases}
-y_{2\ left} &\text = k_2 \cdot x_{left} &\+ b_2 \\ 
-y_{2\ right} &\text = k_2 \cdot x_{right} &\+ b_2 \\
+y_{2\ left} &\text = \ k_2 \cdot x_{left} + b_2 \\ 
+y_{2\ right} &\text = \ k_2 \cdot x_{right} + b_2 \\
 \end{cases}$$
 
 If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
