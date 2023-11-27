@@ -4,7 +4,7 @@ $$y = k_1 \cdot x + b_1 ...(i)$$
 
 $$y = k_2 \cdot x + b_2 ...(ii)$$
 
-$$ iuyi\_u9$$
+$$ iuyi \ u9$$
 
 Suppose $(i)$ and $(ii)$ two lines have an intersection point inside a strip $[x_{left}, x_{right}]$. Let,
 
