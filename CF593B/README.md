@@ -16,7 +16,7 @@ y_{2\ left} &\text = \ k_2 \cdot x_{left} + b_2 \\
 y_{2\ right} &\text = \ k_2 \cdot x_{right} + b_2 \\
 \end{cases}$$
 
-If there is an intersection between these two lines, the order of $(y_{1\text{left}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, if $y_{1\ left} < y_{2\ left}$, then $y_{1\ right} > y_{2\ right}$ and, if $y_{1\ left} > y_{2\ left}$, then $y_{1\ right} < y_{2\ right}$. <br>
+If there is an intersection between these two lines, the order of $(y_{1 \text {left}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, if $y_{1\ left} < y_{2\ left}$, then $y_{1\ right} > y_{2\ right}$ and, if $y_{1\ left} > y_{2\ left}$, then $y_{1\ right} < y_{2\ right}$. <br>
 Now, we pair all ${y_{i\ left}, y_{i\ right}}$ and sort them according to $y_{i\ left}$. Therefore, all $y_{i\ right}$ will occur in sorted order. If all $y_{2\ right}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
 
 ## Solution
