@@ -1,18 +1,22 @@
 # CF593B (Anton and Lines)
 ## Theory
-$$y = k_1 \cdot x + b_1\ .....(i)$$
+$$y = k_1 \cdot x + b_1\  .....(i)$$
 
-$$y = k_2 \cdot x + b_2\ .....(ii)$$
+$$y = k_2 \cdot x + b_2\  .....(ii)$$
 
 Suppose line $(i)$ and $(ii)$ have an intersection point inside a strip $[x_{left}, x_{right}]$.
 
-$$ y_{1\ left} = k_1 \cdot x_{left} + b_1 = y\ point\ on\ $$
+$$ equation (i) \begin{cases}
+y_{1\ left} &\text = k_1 \cdot x_{left} + b_1 \[ $y$ \text {point on} $x_{left}$ \] 
+\end{cases}$$
 
-$$ y_{12} = k_1 \cdot x_{right} + b_1$$
+$$ y_{1\ left} = k_1 \cdot x_{left} + b_1 = y_1\ point\ on\ x_{left}$$
 
-$$ y_{21} = k_2 \cdot x_{left} + b_2$$
+$$ y_{1\ right} = k_1 \cdot x_{right} + b_1 = y_1\ point\ on\ x_{right}$$
 
-$$ y_{21} = k_2 \cdot x_{right} + b_2$$
+$$ y_{2\ left} = k_2 \cdot x_{left} + b_2 = y_2\ point\ on\ x_{left}$$
+
+$$ y_{2\ right} = k_2 \cdot x_{left} + b_1 = y_2\ point\ on\ x_{left}$$
 
 If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
 
