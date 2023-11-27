@@ -16,18 +16,11 @@ y_{2\ left} &\text = k_2 \cdot x_{left} &\+ b_2 \\
 y_{2\ right} &\text = k_2 \cdot x_{right} &\+ b_2 \\
 \end{cases}$$
 
-$$ y_{1\ left} = k_1 \cdot x_{left} + b_1 = y_1\ point\ on\ x_{left}$$
-
-$$ y_{1\ right} = k_1 \cdot x_{right} + b_1 = y_1\ point\ on\ x_{right}$$
-
-$$ y_{2\ left} = k_2 \cdot x_{left} + b_2 = y_2\ point\ on\ x_{left}$$
-
-$$ y_{2\ right} = k_2 \cdot x_{left} + b_1 = y_2\ point\ on\ x_{left}$$
-
 If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
 
-$$If y_{11} < y_{21}, then y_{12} > y_{22} and,$$
-$$If y_{11} > y_{21}, then y_{12} < y_{22} and,$$
+$$\text If y_{1\ left} < y_{2\ left}, \text then y_{1\ right} > y_{2\ right} &\text and,$$
+
+$$\text If y_{1\ left} > y_{2\ left}, \text then y_{1\ right} < y_{2\ right}$$
 
 Now, we pair all ${y_{i1}, y_{i2}}$ and sort them according to $y_{i1}$. Therefore, all $y_{i2}$ will occur in sorted order. If all $y_{22}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
 
