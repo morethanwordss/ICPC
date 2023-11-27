@@ -1,21 +1,31 @@
 # CF593B (Anton and Lines)
 ## Theory
-If two lines $y = k_1 \cdot x + b_1$ and $y = k_2 \cdot x + b_2$ intersects inside a strip $[x_{left}, x_{right}]$, 
+Suppose, two lines $y = k_1 \cdot x + b_1$ and $y = k_2 \cdot x + b_2$ intersects inside a strip $[x_{left}, x_{right}]$. Let,
 
-$$y_{1 left} = k_1 * x_{left} + b_1 = y1 point on x_left$$
+$$y_{11} = y point on x_left for equation 1$$
 
-$$y_{1 right} = k_1 * x_{right} + b_1 = y1 point on x_right$$
+$$y_{12} = y point on x_right for equation 1$$
 
-$$y_{2 left} = k_2 * x_{left} + b_2 = y2 point on x_left$$
+$$y_{21} = y point on x_left for equation 2$$
 
-$$y_{2 right} = k_2 * x_{right} + b_2 = y2 point on x_right$$
+$$y_{22} = y point on x_right for equation 2$$
 
-then the order of $(y_{1_left}, y_{2_left)}$ and $(y_{1_right}, y_{2_right})$ will not be the same. To simplify, 
+then,
 
-$$ If y_{1_left} < y_{2_left}, then y_{1_right} > y_{2_right} and,$$
-$$ If y_{1_left} > y_{2_left}, then y_{1_right} < y_{2_right} and,$$
+$$ y_{11} = k_1 \cdot x_left + b_1$$
 
-Now, we pair all ${y_{i_left}, y_{i_right}}$ and sort them according to $y_{i_left}$. Therefore, all $y_{i_left}$ will occur in sorted order. If all $y_{2_right}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
+$$ y_{12} = k_1 \cdot x_right + b_1$$
+
+$$ y_{21} = k_2 \cdot x_left + b_2$$
+
+$$ y_{21} = k_2 \cdot x_right + b_2$$
+
+If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
+
+$$If y_{11} < y_{21}, then y_{12} > y_{22} and,$$
+$$If y_{11} > y_{21}, then y_{12} < y_{22} and,$$
+
+Now, we pair all ${y_{i1}, y_{i2}}$ and sort them according to $y_{i1}$. Therefore, all $y_{i2}$ will occur in sorted order. If all $y_{22}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is.
 
 ## Solution
 $$ Author : morethanwords $$
