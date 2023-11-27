@@ -6,7 +6,7 @@ $$ d = \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2}$$
 
 and,
 
-$$ time = distance \frac {distance}{spped}
+$$ time = distance \frac {distance}{speed}$$
 
 ## Solution
 $$Author : morethanwords$$
