@@ -3,6 +3,7 @@
 Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$, 
 
 $$d = \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2}$$
+
 $$time = \frac {distance}{speed}$$
 
 ## Solution
