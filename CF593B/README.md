@@ -4,18 +4,9 @@ $$y = k_1 \cdot x + b_1\ .....(i)$$
 
 $$y = k_2 \cdot x + b_2\ .....(ii)$$
 
-$$ iuyi \ u9$$
+Suppose line $(i)$ and $(ii)$ have an intersection point inside a strip $[x_{left}, x_{right}]$.
 
-Suppose $(i)$ and $(ii)$ two lines have an intersection point inside a strip $[x_{left}, x_{right}]$. Let,
-
-$y_{11} = y$ point on $x_{left}$ for equation $1$ <br>
-$y_{12} = y$ point on $x_{right}$ for equation $1$ <br>
-$y_{21} = y$ point on $x_{left}$ for equation $2$ <br>
-$y_{22} = y$ point on $x_{right}$ for equation $2$ <br>
-
-then,
-
-$$ y_{11} = k_1 \cdot x_{left} + b_1$$
+$$ y_{1\ left} = k_1 \cdot x_{left} + b_1 = y\ point\ on\ $$
 
 $$ y_{12} = k_1 \cdot x_{right} + b_1$$
 
