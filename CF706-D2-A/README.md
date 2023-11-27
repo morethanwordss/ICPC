@@ -5,10 +5,11 @@ Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$ is:
 $$ \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2} $$ 
 
 ## Solution
-Author: $morethanwords$ <br>
-Time: $O(1)$ <br>
-Memory: $O(1)$
+$$Author : $morethanwords$$
 ```c++
+// Time  : O(1)
+// Memory: O(1)
+
 #include <bits/stdc++.h>
 using namespace std;
  
