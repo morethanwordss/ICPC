@@ -16,7 +16,7 @@ y_{2\ left} &\text = \ k_2 \cdot x_{left} + b_2 \\
 y_{2\ right} &\text = \ k_2 \cdot x_{right} + b_2 \\
 \end{cases}$$
 
-If there is an intersection between these two lines, the order of $(y_{1\ left},\ y_{2\ left)}$ and $(y_{1\ right},\ y_{2\ right})$ will not be the same. Now, we pair all $(y_{i\ left},\ y_{i\ right})$ and sort them according to $y_{i\ left}$. Therefore, all $y_{i\ left}$ will occur in sorted order. If all $y_{2\ right}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is. Intersection exactly on $x_{left}$ or $x_{right}$ doesn't count. 
+If there is an intersection between these two lines, the order of $(y_{1\ left},\ y_{2\ left)}$ and $(y_{1\ right},\ y_{2\ right})$ will not be the same. Now, we pair all $(y_{i\ left},\ y_{i\ right})$ and sort them according to $y_{i\ left}$ . Therefore, all $y_{i\ left}$ will occur in sorted order. If all $y_{2\ right}$ also comes in sorted order then there is no intersection between any two lines. Otherwise, there is. Intersection exactly on $x_{left}$ or $x_{right}$ doesn't count. 
 
 ## Solution
 $$ Author : morethanwords $$
