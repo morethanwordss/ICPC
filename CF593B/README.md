@@ -1,8 +1,8 @@
 # CF593B (Anton and Lines)
 ## Theory
-$$y = k_1 \cdot x + b_1 ...(i)$$
+$$y = k_1 \cdot x + b_1\ .....(i)$$
 
-$$y = k_2 \cdot x + b_2 ...(ii)$$
+$$y = k_2 \cdot x + b_2\ .....(ii)$$
 
 $$ iuyi \ u9$$
 
