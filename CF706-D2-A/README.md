@@ -1,4 +1,6 @@
-# Beru-taxi
+# CF706-D2-A
+![image](https://github.com/morethanwordss/ICPC/assets/108709544/4f9fcb3c-dd46-43cb-9f58-11082897dc24)
+Beru-taxi
 ## Theory
 Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$ is:
 
