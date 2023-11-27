@@ -9,13 +9,13 @@ $y_{22} = y$ point on $x_{right}$ for equation $2$ <br>
 
 then,
 
-$$ y_{11} = k_1 \cdot x_left + b_1$$
+$$ y_{11} = k_1 \cdot x_{left} + b_1$$
 
-$$ y_{12} = k_1 \cdot x_right + b_1$$
+$$ y_{12} = k_1 \cdot x_{right} + b_1$$
 
-$$ y_{21} = k_2 \cdot x_left + b_2$$
+$$ y_{21} = k_2 \cdot x_{left} + b_2$$
 
-$$ y_{21} = k_2 \cdot x_right + b_2$$
+$$ y_{21} = k_2 \cdot x_{right} + b_2$$
 
 If there is an intersection between these two lines, the order of $(y_{11}, y_{21)}$ and $(y_{12}, y_{22})$ will not be the same. To simplify, 
 
