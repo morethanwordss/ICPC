@@ -1,11 +1,11 @@
 # CF593B (Anton and Lines)
 ## Theory
-If two lines $y = k_1 \cdot x + b_1$ and $y = k_2 * x + b_2$ intersects inside a strip $[x_{left}, x_{right}]$, 
+If two lines $y = k_1 \cdot x + b_1$ and $y = k_2 \cdot x + b_2$ intersects inside a strip $[x_{left}, x_{right}]$, 
 
-$$ y_{1_{left}} = k_1 * x_left + b_1 = y1 point on x_left$$
-$$ y_{1_right} = k_1 * x_right + b_1 = y1 point on x_right$$
-$$ y_{2_left} = k_2 * x_left + b_2 = y2 point on x_left$$
-$$ y_{2_right} = k_2 * x_right + b_2 = y2 point on x_right$$
+$$y_{1_{left}} = k_1 * x_{left} + b_1 = y1 point on x_left$$
+$$y_{1_right} = k_1 * x_{right} + b_1 = y1 point on x_right$$
+$$y_{2_left} = k_2 * x_{left} + b_2 = y2 point on x_left$$
+$$y_{2_right} = k_2 * x_{right} + b_2 = y2 point on x_right$$
 
 then the order of $(y_{1_left}, y_{2_left)}$ and $(y_{1_right}, y_{2_right})$ will not be the same. To simplify, 
 
