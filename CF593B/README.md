@@ -10,6 +10,7 @@ $$ equation \ (i) \begin{cases}
 y_{1\ left} &\text = k_1 \cdot x_{left} &\+ b_1 \\ 
 y_{1\ right} &\text = k_1 \cdot x_{right} &\+ b_1 \\
 \end{cases}$$ 
+
 $$ equation \ (ii) \begin{cases}
 y_{2\ left} &\text = k_2 \cdot x_{left} &\+ b_2 \\ 
 y_{2\ right} &\text = k_2 \cdot x_{right} &\+ b_2 \\
