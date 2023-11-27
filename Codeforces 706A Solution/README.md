@@ -1,4 +1,4 @@
-# CF706-D2-A (Beru-taxi)
+# CF706A (Beru-taxi)
 ## Theory
 Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$,
 
