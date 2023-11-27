@@ -7,8 +7,8 @@ $$y = k_2 \cdot x + b_2\  .....(ii)$$
 Suppose line $(i)$ and $(ii)$ have an intersection point inside a strip $[x_{left}, x_{right}]$.
 
 $$ equation (i) \begin{cases}
-y_{1\ left} &\text =\  k_1 \cdot x_{left} + b_1  [y \text {point on} x_{left}] \\ 
-y_{1\ right} &\text =\  k_1 \cdot x_{right} + b_1 --> [y \text {point on} x_{left}] 
+y_{1\ left} &\text =\  k_1 \cdot x_{left} + b_1  &\text[y \ point on x_{left}] \\ 
+y_{1\ right} &\text =\  k_1 \cdot x_{right} + b_1 &\text[y \ point on x_{left}] 
 \end{cases}$$
 
 $$ y_{1\ left} = k_1 \cdot x_{left} + b_1 = y_1\ point\ on\ x_{left}$$
