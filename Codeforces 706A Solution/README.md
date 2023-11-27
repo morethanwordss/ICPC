@@ -2,12 +2,16 @@
 ## Theory
 Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$,
 
-$$ d = \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2} $$ 
+$$ d = \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2}$$
+
+and,
+
+$$ time = distance \frac {distance}{spped}
 
 ## Solution
 $$Author : morethanwords$$
 ```c++
-// Time  : O(1)
+// Time  : O(n)
 // Memory: O(1)
 
 #include <bits/stdc++.h>
