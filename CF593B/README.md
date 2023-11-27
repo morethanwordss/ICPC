@@ -1,6 +1,12 @@
 # CF593B (Anton and Lines)
 ## Theory
-Suppose, two lines $y = k_1 \cdot x + b_1$ and $y = k_2 \cdot x + b_2$ intersects inside a strip $[x_{left}, x_{right}]$. Let,
+$$y = k_1 \cdot x + b_1 ...(i)$$
+
+$$y = k_2 \cdot x + b_2 ...(ii)$$
+
+$$ iuyi\_u9$$
+
+Suppose $(i)$ and $(ii)$ two lines have an intersection point inside a strip $[x_{left}, x_{right}]$. Let,
 
 $y_{11} = y$ point on $x_{left}$ for equation $1$ <br>
 $y_{12} = y$ point on $x_{right}$ for equation $1$ <br>
