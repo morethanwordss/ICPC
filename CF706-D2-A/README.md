@@ -1,8 +1,8 @@
 # CF706-D2-A (Beru-taxi)
 ## Theory
-Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$ is:
+Distance between two points $(x_1, x_2)$ and $(y_1, y_2)$,
 
-$$ \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2} $$ 
+$$ d_{(x_1, y_1), (x_2, y_2)} = \sqrt {(x_1 - x_2)^2 + (y_1 - y_2)^2} $$ 
 
 ## Solution
 $$Author : morethanwords$$
